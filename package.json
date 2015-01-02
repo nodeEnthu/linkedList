@@ -1,0 +1,26 @@
+{
+    "name": "linkedList",
+    "version": "1.0.0",
+    "description": "linked list in javascript",
+    "main": "linkedList.js",
+    "scripts": {
+        "test": "./node_modules/.bin/mocha --reporter spec --timeout 60000 ./test/**/**.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nodeEnthu/linkedList"
+    },
+    "keywords": [
+        "linkedlist",
+        "java"
+    ],
+    "dependencies": {
+        "grunt": "latest"
+    },
+    "devDependencies": {
+        "mocha": "latest",
+        "should": "latest"
+    },
+    "author": "Node Enthu <node.enthu@gmail.com>",
+    "license": "MIT"
+}
