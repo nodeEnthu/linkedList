@@ -1,5 +1,5 @@
 {
-    "name": "linkedList",
+    "name": "javatype-linked-list",
     "version": "1.0.0",
     "description": "linked list in javascript",
     "main": "linkedList.js",
